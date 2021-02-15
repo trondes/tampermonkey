@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Autoclik on timeout
+// @name         VFS - Autoclick on timeout
 // @namespace
-// @version      0.1
+// @version      0.2
 // @description  Will keep you logged in
 // @author       trondes
 // @match        https://skole.visma.com/*
