@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add favicon
+// @name         SP-Add favicon
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Change favicon. local host
