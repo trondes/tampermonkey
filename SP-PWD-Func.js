@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SP - insert password
+// @name         SP - PWD - Func
 // @version      0.1
 // @description  Paste id and password.
 // @author       trond
