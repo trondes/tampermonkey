@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VFS-Hide student info
+// @name         VFS-Hide student information 
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Hide student info, option to show.
